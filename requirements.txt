@@ -1,4 +1,4 @@
-kafka-python
+confluent-kafka
 fastavro
 pandas
 jupyter
